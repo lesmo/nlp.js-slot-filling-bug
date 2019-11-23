@@ -1,0 +1,14 @@
+{
+  "name": "node-nlp-slot-filling-bug",
+  "version": "1.0.0",
+  "description": "PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sinuhé Coronel <lesmo@lesmo.com.mx>",
+  "license": "MIT",
+  "dependencies": {
+    "node-nlp": "^4.0.0-rc.4"
+  }
+}
